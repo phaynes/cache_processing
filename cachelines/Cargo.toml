@@ -1,0 +1,10 @@
+[package]
+name = "cachelines"
+version = "0.1.0"
+authors = ["p.haynes"]
+edition = "2018"
+
+[dependencies]
+sysctl = "0.4.4"
+
+
