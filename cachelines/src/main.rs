@@ -1,5 +1,5 @@
 /// 
-/// Process to test CPU processing on a mac
+/// Process to test CPU processing on a Mac.
 ///
 
 extern crate sysctl;
